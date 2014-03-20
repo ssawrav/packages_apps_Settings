@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /**
- * Copyright (c) 2013, The Android Ice Cold Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *     http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+* Copyright (c) 2013, The Android Ice Cold Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
@@ -112,7 +112,7 @@
     <string name="voicemail_breath_title">Yanıp sönen sesli mesaj</string>
     <string name="voicemail_breath_summary">Bildirim çubuğunda, sesli mesaj bildirimleriniz yanıp söner</string>
 
-    <!-- SlimSizer  -->
+    <!-- SlimSizer -->
     <string name="listsystem">Uygulamalar Listesi</string>
     <string name="sizer_title">Sistem uygulamalarını kaldır</string>
     <string name="caution">Dikkat!</string>
@@ -241,7 +241,7 @@
     <string name="app_halo_label_black">HALO kara listesine ekle</string>
     <string name="app_halo_label_white">HALO beyaz listesine ekle</string>
 
-    <!-- Active Notifications --> 
+    <!-- Active Notifications -->
     <string name="general">Genel</string>
     <string name="privacy">Gizlilik</string>
     <string name="additional_settings_title">Diğer ayarlar...</string>
@@ -357,7 +357,7 @@
     <string name="battery_text_charging_color">Şarj olurken yüzde rengi</string>
     <string name="battery_style_reset_message">Tüm pil renklerini sıfırla?</string>
 
-    <!-- Profiles settings  -->
+    <!-- Profiles settings -->
     <string name="profiles_settings_title">Profiller</string>
     <string name="profiles_general_title">Genel</string>
     <string name="profiles_add">Ekle</string>
@@ -374,7 +374,7 @@
     <string name="menu_new_profile_summary">Yeni profili ekleyin ve düzenleyin</string>
     <string name="new_profile_name">&lt;yeni profil&gt;</string>
 
-    <!-- Rename Dialog  -->
+    <!-- Rename Dialog -->
     <string name="rename_dialog_title">Yeniden adlandır</string>
     <string name="rename_dialog_message">Yeni isim girin</string>
     <string name="duplicate_profile_name">Böyle bir profil ismi var</string>
@@ -560,9 +560,9 @@
     <string name="lockscreen_enable_power_menu_title">Kilit ekranında güç menüsü</string>
 
     <!-- Screen recorder settings -->
-    <string name="srec_enable_touches_title">İşaretçiyi etkinleştir</string>	
-    <string name="srec_enable_touches_summary">Ekranı kaydederken dokunmaları göstermek için işaretçiyi etkinleştir</string>	
-    <string name="srec_enable_mic_title">Mikrofonu kullan</string>	
+    <string name="srec_enable_touches_title">İşaretçiyi etkinleştir</string>
+    <string name="srec_enable_touches_summary">Ekranı kaydederken dokunmaları göstermek için işaretçiyi etkinleştir</string>
+    <string name="srec_enable_mic_title">Mikrofonu kullan</string>
     <string name="srec_enable_mic_summary">Ekranı kaydederken mikrofon seslerini de kaydet</string>
 
     <!-- Battery Bar -->
@@ -795,7 +795,7 @@
     <string name="custom_recent_summary">Son uygulamalar ekranına ince ve sade bir görünüm verir</string>
     <string name="recent_panel_category">SlimRom tarzı Son Uygulamalar Paneli</string>
     <string name="recent_panel_scale_title">Boyut</string>
-    <string name="recent_panel_scale_summary">Son Uygulamalar paneli boyutu (%)</string>
+    <string name="recent_panel_scale_summary">Son Uygulamalar paneli boyutu</string>
     <string name="recent_panel_100">%100 (varsayılan)</string>
     <string name="recent_panel_85">%85</string>
     <string name="recent_panel_70">%70</string>
@@ -889,7 +889,7 @@
     <string name="ga_gestures_rename_title">Hareketi yeniden adlandır</string>
     <!-- Label of gesture name field in Rename gesture dialog box -->
     <string name="ga_gestures_rename_label">Hareket ismi</string>
-    <!-- Message, displayed when the sdcard cannot be found, 1st parameter is the name of the file that stores the gestures.  CHAR LIMIT=80 -->
+    <!-- Message, displayed when the sdcard cannot be found, 1st parameter is the name of the file that stores the gestures. CHAR LIMIT=80 -->
     <string name="ga_gestures_error_loading">%s açılamadı. Yeterli hafıza olduğundan emin olun.</string>
 
     <!-- Expanded desktop -->
