@@ -98,7 +98,7 @@
             <intent android:action="org.cyanogenmod.settings.device.DOZE_SETTINGS" />
         </cyanogenmod.preference.RemotePreference>
 
-        <com.android.settings.preference.SecureSettingSwitchPreference
+        <cyanogenmod.preference.SecureSettingSwitchPreference
                 android:key="notification_title_tint"
                 android:title="@string/notification_tint_title"
                 android:summaryOn="@string/notification_tint_summary_on"
