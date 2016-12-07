@@ -331,4 +331,19 @@
   <string name="tuner_full_importance_settings">通知の詳細なコントロール</string>
   <!-- CM Legal -->
   <string name="cmlicense_title">CyanogenMod利用規約</string>
+  <!-- Format string for fingerprint location message -->
+  <string name="security_settings_fingerprint_enroll_find_sensor_message_cm">端末の<xliff:g id="sensor_location">%1$s</xliff:g>にある指紋認証センサーを探します。</string>
+  <!-- Fingerprint sensor locations -->
+  <string name="security_settings_fingerprint_sensor_location_back">背面</string>
+  <string name="security_settings_fingerprint_sensor_location_front">前面</string>
+  <string name="security_settings_fingerprint_sensor_location_left">左側面</string>
+  <string name="security_settings_fingerprint_sensor_location_right">右側面</string>
+  <!-- Tethering & portable hotspot other category -->
+  <string name="tethering_other_category_text">その他</string>
+  <!-- Wi-Fi tethering inactivity timeout -->
+  <string name="hotstpot_inactivity_timeout_text">Wi\u2011Fiアクセスポイントのタイムアウト</string>
+  <string name="hotstpot_inactivity_timeout_never">使用しない</string>
+  <string name="hotstpot_inactivity_timeout_1_minute">1分</string>
+  <string name="hotstpot_inactivity_timeout_5_minutes">5分</string>
+  <string name="hotstpot_inactivity_timeout_10_minutes">10分</string>
 </resources>
